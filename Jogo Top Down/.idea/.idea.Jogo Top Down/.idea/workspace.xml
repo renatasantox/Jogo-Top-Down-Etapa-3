@@ -4,7 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="050ef038-5d69-453c-9dfa-fef8075f0bac" name="Changes" comment="" />
+    <list default="true" id="050ef038-5d69-453c-9dfa-fef8075f0bac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Jogo Top Down/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Jogo Top Down/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Jogo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Jogo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Mira (1).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Mira (1).png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Background/galaxy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Background/galaxy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Background/stars_texture.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Background/stars_texture.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/body_01a.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/body_01a.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/body_01b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/body_01b.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_01c_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_01c_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk1b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk1b.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk1c.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk1c.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk2a.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_02_mk2a.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_03b_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Bonus/turret_03b_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/bottom_01_stay.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/bottom_01_stay.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/torso_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/torso_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/weapon_left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/weapon_left.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/weapon_right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Mechs/weapon_right.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Stations/station.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Stations/station.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Tanks/01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Tanks/01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Towers/tower01_pixart_128.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/Towers/tower01_pixart_128.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/palete.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/palete.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/practice_target.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/practice_target.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_base_medium.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_base_medium.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_base_small.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_base_small.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_hardpoint_medium.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_hardpoint_medium.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_hardpoint_small.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Others/weapon_hardpoint_small.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/SB_banner.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/SB_banner.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/body_03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/ship_big_128x256.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Big/ship_big_128x256.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/body_03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/ship_medium_64x128.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Medium/ship_medium_64x128.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/Exhaust/exhaust_01a.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/Exhaust/exhaust_01a.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/Exhaust/exhaust_01b.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/Exhaust/exhaust_01b.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/body_03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/ship_small_32x64.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Ships/Small/ship_small_32x64.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Cannon/turret_01_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Laser/turret_02_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Missile/turret_03_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/Plasma/turret_04_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/turret_medium_64x64.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Medium/turret_medium_64x64.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_bullet_01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_bullet_01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_explosion.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_explosion.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_explosion.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_explosion.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk1_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk2_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Cannon/turret_01_mk3_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_beam_01_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_beam_01_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_beam_01_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_beam_01_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_explosion_01_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_explosion_01_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_explosion_01_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_explosion_01_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1_anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1_anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1_anim.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk1_anim.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Laser/turret_02_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Missile/turret_03_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/Plasma/turret_04_mk3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/turret_small_32x32.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/Weapons/Small/turret_small_32x32.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/anim.gif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/space_breaker_asset/anim.gif.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,19 +106,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.42f1\Editor\Unity.exe" />
@@ -56,9 +141,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -69,9 +151,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -88,6 +167,8 @@
       <updated>1762266086454</updated>
       <workItem from="1762266087234" duration="15000" />
       <workItem from="1762266149942" duration="641000" />
+      <workItem from="1763664016044" duration="94000" />
+      <workItem from="1763664148762" duration="43000" />
     </task>
     <servers />
   </component>
