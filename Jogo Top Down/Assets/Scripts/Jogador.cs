@@ -37,8 +37,8 @@ public class Jogador : Personagem
     {
         if (other.gameObject.tag == "Inimigo")
         {
-            int vidas = getVidas() - 1;
-            setVidas(vidas);
+            int vida = getVida() - 1;
+            setVida(vida);
         }
     }
 }

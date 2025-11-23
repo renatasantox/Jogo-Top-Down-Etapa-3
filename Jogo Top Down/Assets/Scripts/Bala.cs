@@ -1,14 +1,14 @@
 using UnityEngine;
 
-public class Inimigo : Personagem
+public class Bala : MonoBehaviour
 {
-    
+
     void Start()
     {
         
     }
 
-    
+
     void Update()
     {
         
