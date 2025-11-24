@@ -27,10 +27,10 @@ public class Bala : MonoBehaviour
     {
         transform.Translate(velocidade * Time.deltaTime, 0, 0);
 
-        if(!m_Renderer.isVisible)
-        {
-            Destroy(this.gameObject);
-        }
+      //  if(!m_Renderer.isVisible)
+      //  {
+      //      Destroy(this.gameObject);
+      //  }
     }
 
 

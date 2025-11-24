@@ -72,8 +72,8 @@ public class Inimigo : Personagem
 
         if (getVida() <= 0)
         {
-           // animator.SetTrigger("Morte");
-           desativa();
+           animator.SetTrigger("Morte");
+          // desativa();
 
         }
         
