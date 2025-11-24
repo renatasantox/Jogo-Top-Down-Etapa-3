@@ -25,20 +25,12 @@ public class Arma : MonoBehaviour
 
     void Update()
     {
-        if (gameObject.transform.rotation.eulerAngles.z > -90 && gameObject.transform.rotation.eulerAngles.z < 90)
-        {
-            transform.localScale = new Vector3(1, 1, 1);
-        }
+       
 
-        if (gameObject.transform.rotation.eulerAngles.z > 90 && gameObject.transform.rotation.eulerAngles.z < 270)
-        {
-            transform.localScale = new Vector3(1, -1, 1);
-        }
-
-        // Distância da câmera ao objeto. Precisamos disso para fazer o cálculo correto.
+        // Distï¿½ncia da cï¿½mera ao objeto. Precisamos disso para fazer o cï¿½lculo correto.
         float camDis = camera.transform.position.y - transform.position.y;
 
-        // Obtém a posição do mouse no espaço mundial. Usando camDis para eixo Z.
+        // Obtï¿½m a posiï¿½ï¿½o do mouse no espaï¿½o mundial. Usando camDis para eixo Z.
         Vector3 mouse = camera.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, camDis));
 
         float AngleRad = Mathf.Atan2(mouse.y - transform.position.y, mouse.x - transform.position.x);
