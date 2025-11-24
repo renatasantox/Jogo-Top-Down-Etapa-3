@@ -174,7 +174,7 @@ SpriteRenderer:
   m_SortingOrder: 1
   m_Sprite: {fileID: 8587340271344757162, guid: 481566ed14308cd49b15ed4dc3fd0229, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.12, y: 0.75}
@@ -317,6 +317,41 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed230df1e6a07bf4b86e9de9bf138c24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  velocidade: 5
+  vida: 10
+  energia: 100
+  arma: {fileID: 8214142357801668289}
+--- !u!1 &7643333630549630932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4392926807753051543}
+  m_Layer: 0
+  m_Name: saidaDeTiro
+  m_TagString: Untagged
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4392926807753051543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7643333630549630932}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.323, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8214142357801668289}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7646223121872770658
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,7 +368,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2848969525622961140
 Transform:
   m_ObjectHideFlags: 0
@@ -414,6 +449,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8214142357801668289}
   - component: {fileID: 5198836053013279689}
+  - component: {fileID: 9215481951649940027}
   m_Layer: 0
   m_Name: Atirador
   m_TagString: Untagged
@@ -433,7 +469,8 @@ Transform:
   m_LocalPosition: {x: 0.0012586117, y: 0.10903704, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 4392926807753051543}
   m_Father: {fileID: 4219261462171617610}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5198836053013279689
@@ -491,6 +528,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &9215481951649940027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8174117530269242907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6b649e62cc927a4090faa36398903c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  saidaDeTiro: {fileID: 4392926807753051543}
+  bala: {fileID: 0}
+  intervaloDeDisparo: 0.2
+  cursor: {fileID: 1639515016466096829}
 --- !u!1 &8922312322015118965
 GameObject:
   m_ObjectHideFlags: 0
@@ -507,7 +560,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3981620281867412567
 Transform:
   m_ObjectHideFlags: 0
