@@ -5,7 +5,7 @@ public class CriarInimigos : MonoBehaviour
     public GameObject[] inimigos;
     public Transform[] posicaoDosInimigos;
 
-    public float tempoDoNovoInimigo = 7;
+    public float tempoDoNovoInimigo = 10; //segundos
 
     private float cronometroDoInimigo = 0;
 

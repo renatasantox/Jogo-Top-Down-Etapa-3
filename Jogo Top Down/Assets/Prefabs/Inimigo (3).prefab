@@ -164,7 +164,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3534709203494912246
 Transform:
   m_ObjectHideFlags: 0
@@ -317,7 +317,7 @@ MonoBehaviour:
   vida: 10
   energia: 100
   dano: 1
-  raioDeVisao: 10
+  raioDeVisao: 40
   _visaoCollider2D: {fileID: 6496880889473310297}
   posicaoDoPlayer: {fileID: 0}
   audioSource: {fileID: 0}
