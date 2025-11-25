@@ -98,6 +98,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CriarInimigos.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -178,6 +181,7 @@
       <workItem from="1763664148762" duration="43000" />
       <workItem from="1763991971062" duration="4164000" />
       <workItem from="1764001960127" duration="2548000" />
+      <workItem from="1764081509251" duration="1221000" />
     </task>
     <servers />
   </component>
