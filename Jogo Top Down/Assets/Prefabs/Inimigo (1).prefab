@@ -438,6 +438,7 @@ MonoBehaviour:
   velocidade: 1
   vida: 10
   energia: 100
+  pontos: 1
   dano: 1
   raioDeVisao: 40
   _visaoCollider2D: {fileID: 7392786574220470087}
@@ -772,4 +773,4 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 6
+  m_Radius: 12

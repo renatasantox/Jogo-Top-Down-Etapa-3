@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class Inimigo : Personagem
 {
+
+    private GameObject contador;
+    public int pontos = 1;
+    
     [SerializeField] private int dano = 1;
     
     public float raioDeVisao = 1;
@@ -29,6 +33,8 @@ public class Inimigo : Personagem
     
     void Start()
     {
+        contador = GameObject.Find("Contador");
+        
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         
@@ -90,8 +96,13 @@ public class Inimigo : Personagem
     {
         //desativa o objeto do Inimigo
         //gameObject.SetActive(false);
+        
+        contador.GetComponent<Contador>().pontos += pontos;
+        
         Destroy(gameObject);
         Debug.Log("Teste...");
+        
+        
     }
 
     public void playAudio()

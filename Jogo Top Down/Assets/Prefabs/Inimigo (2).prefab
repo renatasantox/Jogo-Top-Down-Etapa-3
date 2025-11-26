@@ -67,7 +67,7 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 6
+  m_Radius: 12
 --- !u!1 &3922933234586549684
 GameObject:
   m_ObjectHideFlags: 0
@@ -241,6 +241,7 @@ MonoBehaviour:
   velocidade: 1
   vida: 10
   energia: 100
+  pontos: 3
   dano: 1
   raioDeVisao: 40
   _visaoCollider2D: {fileID: 6229563383374661592}
