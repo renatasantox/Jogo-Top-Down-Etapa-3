@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fa90162abb8bcc74c87e2c91bbfc9d0a
+guid: 1d99046c69f5ef449ad9b324dd8e18cf
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - THE POSTER FONT DEMO
+  - Aldo the Apache
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
